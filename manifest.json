@@ -1,0 +1,10 @@
+{
+  "name": "Aggrey Memorial A.M.E. Zion SHS",
+  "short_name": "Aggrey Memorial",
+  "description": "School information website for Aggrey Memorial A.M.E. Zion Senior High School",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FBF8FF",
+  "theme_color": "#3D0066",
+  "icons": []
+}
